@@ -1,0 +1,14 @@
+[bg file='common/bg.png']
+[text show]
+听说乐队的夏天很火![p]
+[fg center file='fg/image.png']
+【Girl】
+你知道NO.25么？[r]贝斯手简直不要太帅了，钢琴也是[p]
+我是鼓手的小迷妹[p]
+他们为什么厉害？[p]
+感觉我可以用人工智能自动生成游戏了[p]
+绝对可以[p]
+demo[p]
+玩音乐，关键是玩[p]
+[router push path='/title']
+
